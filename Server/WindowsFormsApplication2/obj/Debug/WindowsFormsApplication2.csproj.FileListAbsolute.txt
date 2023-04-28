@@ -1,0 +1,107 @@
+C:\Users\yusuf\OneDrive\Masaüstü\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\yusuf\OneDrive\Masaüstü\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\yusuf\OneDrive\Masaüstü\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\yusuf\OneDrive\Masaüstü\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\yusuf\OneDrive\Masaüstü\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\yusuf\OneDrive\Masaüstü\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\yusuf\OneDrive\Masaüstü\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\SCHOOL\2021\CS408\Project\408 Proje\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\yusuf\OneDrive\Masaüstü\SCHOOL\2021\CS408\Project\408 Proje\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\yusuf\OneDrive\Masaüstü\SCHOOL\2021\CS408\Project\408 Proje\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\SCHOOL\2021\CS408\Project\408 Proje\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\yusuf\OneDrive\Masaüstü\SCHOOL\2021\CS408\Project\408 Proje\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\SCHOOL\2021\CS408\Project\408 Proje\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\SCHOOL\2021\CS408\Project\408 Proje\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\yusuf\OneDrive\Masaüstü\SCHOOL\2021\CS408\Project\408 Proje\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\yusuf\OneDrive\Masaüstü\SCHOOL\2021\CS408\Project\408 Proje\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\utkuk\Documents\Visual Studio 2015\Projects\Server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\utkuk\Documents\Visual Studio 2015\Projects\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\utkuk\Documents\Visual Studio 2015\Projects\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\utkuk\Documents\Visual Studio 2015\Projects\Server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\utkuk\Documents\Visual Studio 2015\Projects\Server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\utkuk\Documents\Visual Studio 2015\Projects\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\utkuk\Documents\Visual Studio 2015\Projects\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\utkuk\Documents\Visual Studio 2015\Projects\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\utkuk\Documents\Visual Studio 2015\Projects\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\utkuk\Desktop\Server_Step2_1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\utkuk\Desktop\Server_Step2_1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\utkuk\Desktop\Server_Step2_1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\utkuk\Desktop\Server_Step2_1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\utkuk\Desktop\Server_Step2_1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\utkuk\Desktop\Server_Step2_1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\utkuk\Desktop\Server_Step2_1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\utkuk\Desktop\Server_Step2_1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\utkuk\Desktop\Server_Step2_1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\utkuk\Desktop\STEP2_2\Server_Step2_1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\utkuk\Desktop\STEP2_2\Server_Step2_1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\utkuk\Desktop\STEP2_2\Server_Step2_1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\utkuk\Desktop\STEP2_2\Server_Step2_2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\utkuk\Desktop\STEP2_2\Server_Step2_2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\utkuk\Desktop\STEP2_2\Server_Step2_2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\utkuk\Desktop\STEP2_2\Server_Step2_2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\utkuk\Desktop\STEP2_2\Server_Step2_2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\utkuk\Desktop\STEP2_2\Server_Step2_2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\utkuk\Desktop\STEP2_2\Server_Step2_2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\utkuk\Desktop\STEP2_2\Server_Step2_2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\utkuk\Desktop\STEP2_2\Server_Step2_2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Ekin\OneDrive\Masaüstü\CS408\ekinmarlali_Marlali_Ekin_Step2\Server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ekin\OneDrive\Masaüstü\CS408\ekinmarlali_Marlali_Ekin_Step2\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Ekin\OneDrive\Masaüstü\CS408\ekinmarlali_Marlali_Ekin_Step2\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ekin\OneDrive\Masaüstü\CS408\ekinmarlali_Marlali_Ekin_Step2\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Ekin\OneDrive\Masaüstü\CS408\ekinmarlali_Marlali_Ekin_Step2\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Ekin\OneDrive\Masaüstü\CS408\ekinmarlali_Marlali_Ekin_Step2\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Ekin\OneDrive\Masaüstü\CS408\ekinmarlali_Marlali_Ekin_Step2\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Ekin\OneDrive\Masaüstü\CS408\ekinmarlali_Marlali_Ekin_Step2\Server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Ekin\OneDrive\Masaüstü\CS408\ekinmarlali_Marlali_Ekin_Step2\Server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ekin\OneDrive\Masaüstü\26 Aralık 2020 Step 3 çalışması\Server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ekin\OneDrive\Masaüstü\26 Aralık 2020 Step 3 çalışması\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Ekin\OneDrive\Masaüstü\26 Aralık 2020 Step 3 çalışması\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ekin\OneDrive\Masaüstü\26 Aralık 2020 Step 3 çalışması\Server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Ekin\OneDrive\Masaüstü\26 Aralık 2020 Step 3 çalışması\Server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ekin\OneDrive\Masaüstü\26 Aralık 2020 Step 3 çalışması\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Ekin\OneDrive\Masaüstü\26 Aralık 2020 Step 3 çalışması\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Ekin\OneDrive\Masaüstü\26 Aralık 2020 Step 3 çalışması\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Ekin\OneDrive\Masaüstü\26 Aralık 2020 Step 3 çalışması\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Ekin\OneDrive\Masaüstü\27 Aralık 2021 Step 3 çalışması\Server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ekin\OneDrive\Masaüstü\27 Aralık 2021 Step 3 çalışması\Server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Ekin\OneDrive\Masaüstü\27 Aralık 2021 Step 3 çalışması\Server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ekin\OneDrive\Masaüstü\27 Aralık 2021 Step 3 çalışması\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Ekin\OneDrive\Masaüstü\27 Aralık 2021 Step 3 çalışması\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Ekin\OneDrive\Masaüstü\27 Aralık 2021 Step 3 çalışması\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Ekin\OneDrive\Masaüstü\27 Aralık 2021 Step 3 çalışması\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Ekin\OneDrive\Masaüstü\27 Aralık 2021 Step 3 çalışması\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Ekin\OneDrive\Masaüstü\27 Aralık 2021 Step 3 çalışması\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ekin\OneDrive\Masaüstü\28 Aralık 2021 Step 3 çalışması\Server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ekin\OneDrive\Masaüstü\28 Aralık 2021 Step 3 çalışması\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Ekin\OneDrive\Masaüstü\28 Aralık 2021 Step 3 çalışması\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ekin\OneDrive\Masaüstü\28 Aralık 2021 Step 3\Server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ekin\OneDrive\Masaüstü\28 Aralık 2021 Step 3\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Ekin\OneDrive\Masaüstü\28 Aralık 2021 Step 3\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ekin\OneDrive\Masaüstü\28 Aralık 2021 Step 3\Server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Ekin\OneDrive\Masaüstü\28 Aralık 2021 Step 3\Server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ekin\OneDrive\Masaüstü\28 Aralık 2021 Step 3\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Ekin\OneDrive\Masaüstü\28 Aralık 2021 Step 3\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Ekin\OneDrive\Masaüstü\28 Aralık 2021 Step 3\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Ekin\OneDrive\Masaüstü\28 Aralık 2021 Step 3\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Ekin\OneDrive\Masaüstü\30 Aralık 2021 16.44 Step 3\Server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ekin\OneDrive\Masaüstü\30 Aralık 2021 16.44 Step 3\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Ekin\OneDrive\Masaüstü\30 Aralık 2021 16.44 Step 3\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ekin\OneDrive\Masaüstü\30 Aralık 2021 16.44 Step 3\Server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Ekin\OneDrive\Masaüstü\30 Aralık 2021 16.44 Step 3\Server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ekin\OneDrive\Masaüstü\30 Aralık 2021 16.44 Step 3\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Ekin\OneDrive\Masaüstü\30 Aralık 2021 16.44 Step 3\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Ekin\OneDrive\Masaüstü\30 Aralık 2021 16.44 Step 3\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Ekin\OneDrive\Masaüstü\30 Aralık 2021 16.44 Step 3\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Ekin\OneDrive\Masaüstü\30 Aralık 2021 18.32 Step 3\Server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ekin\OneDrive\Masaüstü\30 Aralık 2021 18.32 Step 3\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Ekin\OneDrive\Masaüstü\30 Aralık 2021 18.32 Step 3\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ekin\OneDrive\Masaüstü\30 Aralık 2021 18.32 Step 3\Server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Ekin\OneDrive\Masaüstü\30 Aralık 2021 18.32 Step 3\Server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ekin\OneDrive\Masaüstü\30 Aralık 2021 18.32 Step 3\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Ekin\OneDrive\Masaüstü\30 Aralık 2021 18.32 Step 3\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Ekin\OneDrive\Masaüstü\30 Aralık 2021 18.32 Step 3\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Ekin\OneDrive\Masaüstü\30 Aralık 2021 18.32 Step 3\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\utkuk\Desktop\az\21-22 Fall-20220315T110819Z-001\21-22 Fall\CS408\utkukocoglu_Kocoglu_UtkuSelim_Step3\Server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\utkuk\Desktop\az\21-22 Fall-20220315T110819Z-001\21-22 Fall\CS408\utkukocoglu_Kocoglu_UtkuSelim_Step3\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\utkuk\Desktop\az\21-22 Fall-20220315T110819Z-001\21-22 Fall\CS408\utkukocoglu_Kocoglu_UtkuSelim_Step3\Server\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
